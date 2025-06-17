@@ -61,11 +61,11 @@ npm run dev
 💡 Author
 Snehlata Prajapati
 
-💼 LinkedIn
+* 💼 [LinkedIn](https://www.linkedin.com/in/snehlata-prajapati/)
 
-🐱 GitHub
+* 🐱 [GitHub](https://github.com/Snehlatacs)
 
-🌐 Live Site
+🌐 [Live Site](https://react-todo-sneh.netlify.app)
 
 ## 🏁 License
 
