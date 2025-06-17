@@ -65,7 +65,7 @@ Snehlata Prajapati
 
 * 🐱 [GitHub](https://github.com/Snehlatacs)
 
-🌐 [Live Site](https://react-todo-sneh.netlify.app)
+* 🌐 [Live Site](https://react-todo-sneh.netlify.app)
 
 ## 🏁 License
 
